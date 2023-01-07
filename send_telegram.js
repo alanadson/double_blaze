@@ -1,5 +1,5 @@
-const botToken = "5890973262:AAFq32eh1ftXPa18bG40ShH8qMky_rgBL7g";
-const chatId = "-835924208";
+const botToken = "your_token";
+const chatId = "your_chat_id";
 
 const confirmRedMessage = `
 💰ENTRADA CONFIRMADA💰
