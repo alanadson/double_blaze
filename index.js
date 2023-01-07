@@ -18,7 +18,7 @@ const {
   urlSendWinBlackBetMessage,
   urlSendRed,
 } = require("./send_telegram");
-https.get(urlSendRedBetMessage);
+
 async function getRecentGames() {
   let lastData = null;
 
